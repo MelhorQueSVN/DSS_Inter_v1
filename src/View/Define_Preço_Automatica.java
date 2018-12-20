@@ -115,7 +115,7 @@ public class Define_Preço_Automatica extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void jButton2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton2ActionPerformed
-        new Config_basicas_auto().setVisible(true); 
+        new Escolha_do_modelo_Config_Auto().setVisible(true); 
         this.setVisible(false);
     }//GEN-LAST:event_jButton2ActionPerformed
 
